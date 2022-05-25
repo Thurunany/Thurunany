@@ -24,15 +24,15 @@
   ##
   
 <div>
-   <a href="https://www.linkedin.com/in/nadinevolinger" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:nadine.volinger@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/thuany-muraro-soares" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:thuany.muraro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </a>
     
   ![Snake animation](https://github.com/nadinevolinger/nadinevolinger/blob/output/github-contribution-grid-snake.svg)
     
    <p align="center">
     <a href="#">
-      <img src="https://komarev.com/ghpvc/?username=nadinevolinger&color=green&style=flat&label=Views" />
+      <img src="https://komarev.com/ghpvc/?username=thurunany&color=green&style=flat&label=Views" />
     </a>
     </p>
 </div>
