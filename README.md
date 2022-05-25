@@ -1,32 +1,64 @@
-# Hey, I'm @Thurunany! 
 
-- 
 
-- 🌱 I'm learning front-end programming languages and here you can see some of my journey
+<div id="header" align="center">
+   <h1>
+    Hi, I'm @Thurunany
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</div>
 
-- 🎓 I completed my high school integrated with the IT technician in 2021, and I'm current studying Systems Analysis and Development
+
+### 👋🏾 👩🏾‍💻 About Me :
+
+- 😄 Pronouns: She/They/He
+
+- 🇧🇷 I'm brazilian! 
+
+- 🌱 I'm current studying  Systems Analysis and Development
+
+- 🎓 I completed my high school integrated with the IT technician in 2021
 
 - :envelope_with_arrow: My repositories codes are all written in english but all the information on the pages are in my native language (portuguese) so if you have any doubt about the texts or codes you can message me on my e-mail and I will do my best to explaying/translate to you
 
 
+---
+
+### :fire: My Stats :
 <div align="center">
   <a href="https://github.com/thurunany">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thurunany&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thurunany&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 <div style="display: inline_block"><br> 
-  <img align="center" alt="Nad-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Nad-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Nad-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Nad-pic" height="150" style="border-radius:50px;" src= https://media.giphy.com/media/lvUGAWjP2IpsBQ4Jqd/giphy.gif>
-</div>
+  
+### :hammer_and_wrench: Languages and Tools :
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Py"alt="Py" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-plain.svg" title="Bulma" alt="Bulma" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Boostrap" alt="Boostrap" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" title="Fedora" alt="Fedora" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>
+</div>  
  
-  ##
+##
   
 <div>
    <a href="https://www.linkedin.com/in/thuany-muraro-soares" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:thuany.muraro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:thuany.muraro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>
   </a>
+  
+  
+  
+ ---  
     
   ![Snake animation](https://github.com/nadinevolinger/nadinevolinger/blob/output/github-contribution-grid-snake.svg)
     
@@ -34,5 +66,5 @@
     <a href="#">
       <img src="https://komarev.com/ghpvc/?username=thurunany&color=green&style=flat&label=Views" />
     </a>
-    </p>
+   </p>
 </div>
