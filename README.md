@@ -5,6 +5,8 @@
     Hi, I'm @Thurunany
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
+   <a href="https://www.linkedin.com/in/thuany-muraro-soares" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href = "mailto:thuany.muraro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>
 </div>
 
 
@@ -14,12 +16,9 @@
 
 - 🇧🇷 I'm brazilian! 
 
-- 🌱 I'm current studying  Systems Analysis and Development
+- 💻 I'm current studying Systems Analysis and Development at the state university of Santa Catarina (UDESC - CCT)
 
 - 🎓 I completed my high school integrated with the IT technician in 2021
-
-- :envelope_with_arrow: My repositories codes are all written in english but all the information on the pages are in my native language (portuguese) so if you have any doubt about the texts or codes you can message me on my e-mail and I will do my best to explaying/translate to you
-
 
 ---
 
@@ -48,21 +47,13 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" title="Fedora" alt="Fedora" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>
 </div>  
- 
-##
-  
-<div>
-   <a href="https://www.linkedin.com/in/thuany-muraro-soares" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:thuany.muraro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>
-  </a>
-  
-  
-  
- ---  
-    
-  ![Snake animation](https://github.com/nadinevolinger/nadinevolinger/blob/output/github-contribution-grid-snake.svg)
-    
-   <p align="center">
+
+   ##
+<div align="center"> 
+   
+  ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+   
+   <p>
     <a href="#">
       <img src="https://komarev.com/ghpvc/?username=thurunany&color=green&style=flat&label=Views" />
     </a>
