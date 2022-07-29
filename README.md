@@ -9,7 +9,7 @@
 </div>
 
 
-### 👋🏾 👩🏾‍💻 About Me :
+### 👩‍💻 About Me :
 
 - 😄 Pronouns: She/They/He
 
