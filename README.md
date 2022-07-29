@@ -13,7 +13,7 @@
 
 - 😄 Pronouns: She/They/He
 
-- 🪴 I'm a software developer since 2019 and here you can see some of my journey
+- 🦾 I'm a software developer since 2019 and here you can see some of my journey
 
 - 💻 I'm current studying Systems Analysis and Development at the state university of Santa Catarina (UDESC - CCT)
 
