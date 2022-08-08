@@ -3,18 +3,15 @@
 <div id="header" align="center">
    <h1>
     Hi, I'm @Thurunany
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
    <a href="https://www.linkedin.com/in/thuany-muraro-soares" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href = "mailto:thuany.muraro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>
 </div>
 
 
-### 👋🏾 👩🏾‍💻 About Me :
+### 👩‍💻 About Me :
 
-- 😄 Pronouns: She/They/He
-
-- 🪴 I'm a software developer since 2019 and here you can see some of my journey
+- 🦾 I'm a software developer since 2019 and here you can see some of my journey
 
 - 💻 I'm current studying Systems Analysis and Development at the state university of Santa Catarina (UDESC - CCT)
 
@@ -26,7 +23,7 @@
 <div align="center">
   <a href="https://github.com/thurunany">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thurunany&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thurunany&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thurunany&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 <div style="display: inline_block"><br> 
   
@@ -38,14 +35,10 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Py"alt="Py" width="40" height="40"/> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-plain.svg" title="Bulma" alt="Bulma" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Boostrap" alt="Boostrap" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" title="Fedora" alt="Fedora" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>
 </div>  
 
    ##
