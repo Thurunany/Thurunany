@@ -11,7 +11,7 @@
 
 ### 👩‍💻 About Me :
 
-- 🦾 I'm a software developer since 2019 and here you can see some of my journey
+- 🦾 I work with tecnology since 2019, and here You can see some of my jorney!
 
 - 💻 I'm current studying Systems Analysis and Development at the state university of Santa Catarina (UDESC - CCT)
 
