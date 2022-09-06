@@ -1,5 +1,3 @@
-
-
 <div id="header" align="center">
    <h1>
     Hi, I'm @Thurunany
@@ -17,7 +15,7 @@
 
 - 🎓 I completed my high school integrated with the IT technician in 2021
 
----
+##
 
 ### :fire: My Stats :
 <div align="center">
