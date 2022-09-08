@@ -13,7 +13,7 @@
 
 - 💻 I'm current studying Systems Analysis and Development at the state university of Santa Catarina (UDESC - CCT)
 
-- 🎓 I did my high school integrated with the IT technician
+- 🎓 I did my high school integrated with a IT technician
 
 ##
 
