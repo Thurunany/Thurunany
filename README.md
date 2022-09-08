@@ -9,7 +9,7 @@
 
 ### 👩‍💻 About Me :
 
-- 🦾 I work with tecnology since 2019, and here You can see some of my jorney!
+- 🦾 I work with tecnology since 2019, and this is some of my jorney!
 
 - 💻 I'm current studying Systems Analysis and Development at the state university of Santa Catarina (UDESC - CCT)
 
