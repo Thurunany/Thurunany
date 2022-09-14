@@ -11,9 +11,9 @@
 
 - 🦾 I work with technology since 2019, and this is some of my jorney;
 
-- 💻 I'm current studying Systems Analysis and Development at the state university of Santa Catarina (UDESC - CCT);
+- 💻 I'm current studying Systems Analysis and Development at [UDESC CCT](https://www.udesc.br/international);
 
-- 🎓 I did my high school integrated with an IT technician;
+- 🎓 I did my high school integrated with an IT technician at IFC;
 
 ##
 
