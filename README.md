@@ -9,7 +9,7 @@
 
 ### 👩‍💻 About Me :
 
-- 🦾 I work with technology since 2019, and this is some of my jorney;
+- 🦾 I am working with technology since 2019, and this is some of my jorney;
 
 - 💻 I'm current studying Systems Analysis and Development at [UDESC CCT](https://www.udesc.br/international);
 
