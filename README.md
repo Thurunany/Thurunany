@@ -1,7 +1,7 @@
 <div id="header" align="center">
 
    
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=8E49F7&center=true&width=435&lines=Hi%2C+I'm+Thuany!;I+study+at+UDESC+CCT;Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=8E49F7&center=true&width=435&lines=Hi%2C+I'm+Thuany!;Welcome+to+my+profile!)](https://git.io/typing-svg)
 </div>
 
 ##
